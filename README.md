@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋,  I'm Chandra Shekhar Joshi.<br>A passionate aspiring Full Stack Developer skilled in MERN stack from Dehradun, India.<br>I develop websites using JavaScript, React, Node.js, Express.js, and MongoDB. Always eager to adapt and take on new challenges and learnings to leverage and hone skills.
+<h1  align ="center">Hi there 👋,  I'm Chandra Shekhar Joshi.<h1/> <h3> A passionate aspiring Full Stack Developer skilled in MERN stack from Dehradun, India.<br>I develop websites using JavaScript, React, Node.js, Express.js, and MongoDB. Always eager to adapt and take on new challenges and learnings to leverage and hone skills.<h3/>
 
 
 ## 🌐 Socials:
